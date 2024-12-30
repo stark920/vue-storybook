@@ -4,6 +4,8 @@ This project is built with Vue 3, Vite, Tailwind CSS, Vue I18n, and Storybook.
 
 The toolbar customizes the theme switch button and the locale switch button.
 
+[DEMO](https://storybook-static-ivory-theta.vercel.app/)
+
 ## Project Setup
 
 ```sh
