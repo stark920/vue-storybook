@@ -1,4 +1,4 @@
-# vue-storybook
+# vue-storybook-starter
 
 This project is built with Vue 3, Vite, Tailwind CSS, Vue I18n, and Storybook.
 
